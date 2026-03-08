@@ -33,7 +33,7 @@ git clone https://github.com/VaibhavJD0911/devzen-dashboard.git
 cd devzen-dashboard
 ```
 
-Then open `login.html` or `dashboard.html` in your browser.
+Then open `index.html` in your browser.
 
 ## 🔮 Future Improvements
 
